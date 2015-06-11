@@ -1,0 +1,1 @@
+{"version":3,"file":"awelzijn-mail-to.min.js","sources":["awelzijn-mail-to.js"],"names":["module","angular","e","directive","restrict","replace","template","scope","emailAdres"],"mappings":";AAAA,cACA,SAAWA,QACT,IACEA,OAASC,QAAQD,OAAO,oBACxB,MAAOE,GACPF,OAASC,QAAQD,OAAO,uBAE1BA,OAAOG,UAAU,kBAAmB,WAClC,OACEC,SAAU,IACVC,SAAS,EACTC,SAAU,qDACVC,OACEC,WAAY"}
