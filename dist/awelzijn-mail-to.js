@@ -1,9 +1,9 @@
 'use strict';
 (function (module) {
   try {
-    module = angular.module('awelzijn.mail-to');
+    module = angular.module('awelzijn.mailto');
   } catch (e) {
-    module = angular.module('awelzijn.mail-to', []);
+    module = angular.module('awelzijn.mailto', []);
   }
   module.directive('aWelzijnMailTo', [function () {
     return {
