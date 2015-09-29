@@ -9,12 +9,9 @@
     return {
       restrict: 'E',
       replace: true,
-      template: '<a ng-show="emailAdres" href="mailto:{{emailAdres}}">{{emailAdres}}</a><span ng-show="!emailAdres">-</span>',
+      template: '<a href="mailto:{{emailAdres}}">{{emailAdres}}</a>',
       scope: {
         emailAdres: "="
-      },
-			link: function (scope, element, attrs) {
-        
       }
     }
   }]);
